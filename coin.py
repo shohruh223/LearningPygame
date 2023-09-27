@@ -6,7 +6,7 @@ pygame.init()
 
 # Set screen size
 screen = pygame.display.set_mode((600, 600))
-
+#
 # Set title
 pygame.display.set_caption("Coin Collector")
 
